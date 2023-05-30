@@ -191,3 +191,19 @@ a {
    transform: translateX(-25px); 
    transition: all ease .4s;
 }
+/* service before footer */
+.service-item {
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    color: #004643;
+    letter-spacing: 0px;
+    margin: auto;
+}
+.contact-box .title-1 {
+    display: block;
+    margin: 20px 0 10px;
+}
+.width-40 {
+    width: 40px;
+}
